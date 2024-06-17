@@ -1,2 +1,4 @@
 This is being added from first branch
 
+This is Content from second branch.
+Again resolved merge conflict
